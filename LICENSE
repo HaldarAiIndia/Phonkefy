@@ -1,0 +1,41 @@
+Phonkefy — Phonk Music Player
+Copyright (c) 2026 Subhojit Haldar, HaldarAi. All rights reserved.
+
+PROPRIETARY LICENSE
+
+This software, including its source code, design, text, and associated files
+(the "Software"), is the exclusive property of Subhojit Haldar and HaldarAi
+(the "Owner"). No license or right is granted except as stated below.
+
+PERMITTED USE
+You may visit and use the live website at https://phonkefy.vercel.app for
+personal, non-commercial listening.
+
+RESTRICTIONS
+Without the prior written permission of the Owner, you may not:
+  1. Copy, reproduce, or redistribute the Software or any part of it;
+  2. Modify, adapt, translate, or create derivative works from the Software;
+  3. Sell, sublicense, rent, lease, or otherwise commercialize the Software;
+  4. Host or publish the Software, or a substantially similar copy of it,
+     under any name, on any website or service;
+  5. Remove or alter any copyright notice, author credit, or branding.
+
+THIRD-PARTY CONTENT
+The Software streams audio and video through the YouTube IFrame Player API.
+All music, videos, thumbnails, and related content belong to their respective
+owners and remain subject to YouTube's Terms of Service. This license does not
+grant any rights to such third-party content.
+
+NO WARRANTY
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE, AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+OWNER BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY, WHETHER IN AN
+ACTION OF CONTRACT, TORT, OR OTHERWISE, ARISING FROM, OUT OF, OR IN CONNECTION
+WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+TERMINATION
+Any use of the Software in violation of this license automatically terminates
+your permission to use it.
+
+For permission requests, contact the Owner: Subhojit Haldar, HaldarAi.
